@@ -118,10 +118,11 @@ TOPIC = "weather-data"
 
  ## Sample Output
  Producer
-  ``Sent: {'city': 'Nairobi', 'temperature': 24.5, 'humidity': 60}``
+<img width="1308" height="393" alt="image" src="https://github.com/user-attachments/assets/c7d261f9-45e8-4d8c-8f63-9801af031a6a" />
+
 
 Consumer
-  ``Stored in Cassandra: {'city': 'Nairobi', 'temperature': 24.5, 'humidity': 60}``
+<img width="1601" height="313" alt="image" src="https://github.com/user-attachments/assets/d1790256-e491-4347-a628-800758bdf54a" />
 
  ## License
 This project is for educational purposes.
